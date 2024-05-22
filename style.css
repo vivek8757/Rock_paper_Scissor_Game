@@ -1,0 +1,28 @@
+button{
+    background-color:cadetblue;
+    color:white;
+    padding:20px;
+    border-radius: 20px;
+    width:120px;
+}
+button:hover{
+    background-color: red;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    margin-top:200px;
+}
+.divs{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.box{
+    width:100%;
+    height:100vh;
+    background-image: url("wp8121936.webp");
+    background-attachment: fixed;
+}
+
